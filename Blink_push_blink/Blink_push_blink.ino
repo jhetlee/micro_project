@@ -5,6 +5,7 @@
  * Chua, Royce 
  * Dumlao, Jhay
  * Garcia, Raul 
+ * Pabalan, Ricomel Jr.
  */
 
 #include <SoftwareSerial.h>
